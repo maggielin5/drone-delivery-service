@@ -1,0 +1,13 @@
+Fri Jan 21 00:17:20 GMT 2022 : Apache Derby Network Server - 10.15.2.0 - (1873585) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Fri Jan 21 00:22:01 GMT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-017e-79fe-a8db-0000069b6ab8 
+on database directory /Users/maggielin/Documents/ilp/database/derbyDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
+Loaded from file:/Users/maggielin/Documents/ilp/Derby/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=N/A
+user.dir=/Users/maggielin/Documents/ilp/database
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.7
+derby.system.home=/Users/maggielin/Documents/ilp/database
+Database Class Loader started - derby.database.classpath=''
